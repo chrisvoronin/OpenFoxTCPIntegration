@@ -1,0 +1,23 @@
+﻿<OFML>
+ <HDR>
+  <ID>UNKNOWN</ID>
+  <DAC>DACID</DAC>
+  <SRC>DMV</SRC>
+  <RQR>1061</RQR>
+  <DAT>20230804130224</DAT>
+  <REF>UNKNOWN</REF>
+  <MKE>DR</MKE>
+  <ORI>IDIDMV000</ORI>
+  <DST>ID0010198</DST>
+  <CTL>7192------</CTL>
+  <SUM>***officer request summary redcted***</SUM>
+ </HDR>
+ <RSP>
+  <TXT>
+*** REDACTED PERSONAL INFORMATION ***
+</TXT>
+<TXT>
+*** REDACTED PERSONAL INFORMATION ***
+  </TXT>
+ </RSP>
+</OFML>
