@@ -112,6 +112,7 @@ namespace OpenFox.Communication
 
         private void SendResultsIfNeededAndRecalculateResult()
         {
+            //using frame start/end to parse per vendor ask instead of message len
             var resStart = FindAllOccurrences(result, _messageStartIndicator);
             var resEnd = FindAllOccurrences(result, _messageEndIndicator);
             int endLen = _messageEndIndicator.Length;
